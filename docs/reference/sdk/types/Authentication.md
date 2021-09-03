@@ -6,4 +6,4 @@ The union of supported authentication methods.
 
 #### Defined in
 
-[types.ts:441](https://github.com/coda/packs-sdk/blob/main/types.ts#L441)
+[types.ts:440](https://github.com/coda/packs-sdk/blob/main/types.ts#L440)

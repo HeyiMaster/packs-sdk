@@ -4,4 +4,4 @@
 
 #### Defined in
 
-[compiled_types.ts:86](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L86)
+[compiled_types.ts:81](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L81)

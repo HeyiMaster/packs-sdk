@@ -6,4 +6,4 @@ Further stripped-down version of `PackMetadata` that contains only what the brow
 
 #### Defined in
 
-[compiled_types.ts:114](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L114)
+[compiled_types.ts:109](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L109)

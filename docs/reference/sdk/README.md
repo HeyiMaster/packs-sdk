@@ -53,8 +53,6 @@
 - [PackDefinition](interfaces/PackDefinition.md)
 - [PackFormatMetadata](interfaces/PackFormatMetadata.md)
 - [PackFormulaDef](interfaces/PackFormulaDef.md)
-- [PackFormulas](interfaces/PackFormulas.md)
-- [PackFormulasMetadata](interfaces/PackFormulasMetadata.md)
 - [PackVersionDefinition](interfaces/PackVersionDefinition.md)
 - [ParamDef](interfaces/ParamDef.md)
 - [ScaleSchema](interfaces/ScaleSchema.md)

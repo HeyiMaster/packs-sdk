@@ -4884,8 +4884,7 @@ function findParentFormula(manifest, formulaSpec) {
   switch (formulaSpec.parentFormulaType) {
     case FormulaType.Standard:
       if (formulas) {
-        const namespacedFormulas = Array.isArray(formulas) ? formulas : Object.values(formulas)[0];
-        formula = namespacedFormulas.find((defn) => defn.name === formulaSpec.parentFormulaName);
+        formula = formulas.find((defn) => defn.name === formulaSpec.parentFormulaName);
       }
       break;
     case FormulaType.Sync:

@@ -19,7 +19,7 @@ Coda REST API.
 
 #### Defined in
 
-[types.ts:101](https://github.com/coda/packs-sdk/blob/main/types.ts#L101)
+[types.ts:100](https://github.com/coda/packs-sdk/blob/main/types.ts#L100)
 
 ___
 
@@ -32,7 +32,7 @@ The header name is defined in the {@link headerName} property.
 
 #### Defined in
 
-[types.ts:52](https://github.com/coda/packs-sdk/blob/main/types.ts#L52)
+[types.ts:51](https://github.com/coda/packs-sdk/blob/main/types.ts#L51)
 
 ___
 
@@ -44,7 +44,7 @@ Authenticate using an HTTP header of the form `Authorization: Bearer <token>`.
 
 #### Defined in
 
-[types.ts:47](https://github.com/coda/packs-sdk/blob/main/types.ts#L47)
+[types.ts:46](https://github.com/coda/packs-sdk/blob/main/types.ts#L46)
 
 ___
 
@@ -59,7 +59,7 @@ The parameter names are defined in the [params](../interfaces/ExternalPackVersio
 
 #### Defined in
 
-[types.ts:66](https://github.com/coda/packs-sdk/blob/main/types.ts#L66)
+[types.ts:65](https://github.com/coda/packs-sdk/blob/main/types.ts#L65)
 
 ___
 
@@ -71,7 +71,7 @@ Indicates this pack does not use authentication. You may also omit an authentica
 
 #### Defined in
 
-[types.ts:43](https://github.com/coda/packs-sdk/blob/main/types.ts#L43)
+[types.ts:42](https://github.com/coda/packs-sdk/blob/main/types.ts#L42)
 
 ___
 
@@ -87,7 +87,7 @@ The API must use a (largely) standards-compliant implementation of OAuth2.
 
 #### Defined in
 
-[types.ts:74](https://github.com/coda/packs-sdk/blob/main/types.ts#L74)
+[types.ts:73](https://github.com/coda/packs-sdk/blob/main/types.ts#L73)
 
 ___
 
@@ -102,7 +102,7 @@ The parameter name is defined in the {@link paramName} property.
 
 #### Defined in
 
-[types.ts:59](https://github.com/coda/packs-sdk/blob/main/types.ts#L59)
+[types.ts:58](https://github.com/coda/packs-sdk/blob/main/types.ts#L58)
 
 ___
 
@@ -117,4 +117,4 @@ See https://en.wikipedia.org/wiki/Basic_access_authentication
 
 #### Defined in
 
-[types.ts:81](https://github.com/coda/packs-sdk/blob/main/types.ts#L81)
+[types.ts:80](https://github.com/coda/packs-sdk/blob/main/types.ts#L80)

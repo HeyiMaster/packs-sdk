@@ -28,7 +28,7 @@ Further stripped-down version of `PackVersionMetadata` that contains only what t
 
 #### Defined in
 
-[compiled_types.ts:96](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L96)
+[compiled_types.ts:91](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L91)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[compiled_types.ts:109](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L109)
+[compiled_types.ts:104](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L104)
 
 ___
 
@@ -54,7 +54,7 @@ BasePackVersionMetadata.formulaNamespace
 
 #### Defined in
 
-[types.ts:706](https://github.com/coda/packs-sdk/blob/main/types.ts#L706)
+[types.ts:705](https://github.com/coda/packs-sdk/blob/main/types.ts#L705)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[compiled_types.ts:108](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L108)
+[compiled_types.ts:103](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L103)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[compiled_types.ts:105](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L105)
+[compiled_types.ts:100](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L100)
 
 ___
 
@@ -96,7 +96,7 @@ BasePackVersionMetadata.networkDomains
 
 #### Defined in
 
-[types.ts:699](https://github.com/coda/packs-sdk/blob/main/types.ts#L699)
+[types.ts:698](https://github.com/coda/packs-sdk/blob/main/types.ts#L698)
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 #### Defined in
 
-[compiled_types.ts:110](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L110)
+[compiled_types.ts:105](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L105)
 
 ___
 
@@ -123,4 +123,4 @@ BasePackVersionMetadata.version
 
 #### Defined in
 
-[types.ts:680](https://github.com/coda/packs-sdk/blob/main/types.ts#L680)
+[types.ts:679](https://github.com/coda/packs-sdk/blob/main/types.ts#L679)

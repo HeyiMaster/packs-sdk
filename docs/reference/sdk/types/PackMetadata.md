@@ -6,4 +6,4 @@ Stripped-down version of `PackDefinition` that doesn't contain formula definitio
 
 #### Defined in
 
-[compiled_types.ts:60](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L60)
+[compiled_types.ts:55](https://github.com/coda/packs-sdk/blob/main/compiled_types.ts#L55)

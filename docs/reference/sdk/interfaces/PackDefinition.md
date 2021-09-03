@@ -19,7 +19,7 @@ This should only be used by legacy Coda pack implementations.
 
 #### Defined in
 
-[types.ts:739](https://github.com/coda/packs-sdk/blob/main/types.ts#L739)
+[types.ts:736](https://github.com/coda/packs-sdk/blob/main/types.ts#L736)
 
 ___
 
@@ -35,7 +35,7 @@ If specified, the user must provide personal authentication credentials before u
 
 #### Defined in
 
-[types.ts:684](https://github.com/coda/packs-sdk/blob/main/types.ts#L684)
+[types.ts:683](https://github.com/coda/packs-sdk/blob/main/types.ts#L683)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[types.ts:737](https://github.com/coda/packs-sdk/blob/main/types.ts#L737)
+[types.ts:734](https://github.com/coda/packs-sdk/blob/main/types.ts#L734)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[types.ts:741](https://github.com/coda/packs-sdk/blob/main/types.ts#L741)
+[types.ts:738](https://github.com/coda/packs-sdk/blob/main/types.ts#L738)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[types.ts:742](https://github.com/coda/packs-sdk/blob/main/types.ts#L742)
+[types.ts:739](https://github.com/coda/packs-sdk/blob/main/types.ts#L739)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[types.ts:743](https://github.com/coda/packs-sdk/blob/main/types.ts#L743)
+[types.ts:740](https://github.com/coda/packs-sdk/blob/main/types.ts#L740)
 
 ___
 
@@ -91,7 +91,7 @@ Definitions of this pack's column formats. See [Format](Format.md).
 
 #### Defined in
 
-[types.ts:720](https://github.com/coda/packs-sdk/blob/main/types.ts#L720)
+[types.ts:717](https://github.com/coda/packs-sdk/blob/main/types.ts#L717)
 
 ___
 
@@ -107,21 +107,18 @@ ___
 
 #### Defined in
 
-[types.ts:706](https://github.com/coda/packs-sdk/blob/main/types.ts#L706)
+[types.ts:705](https://github.com/coda/packs-sdk/blob/main/types.ts#L705)
 
 ___
 
 ### formulas
 
-• `Optional` **formulas**: [`PackFormulas`](PackFormulas.md) \| (`BooleanPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `NumericPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `StringPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`ArraySchema`](ArraySchema.md)<[`Schema`](../types/Schema.md)\>\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`Schema`](../types/Schema.md)\>)[]
+• `Optional` **formulas**: (`BooleanPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `NumericPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `StringPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`ArraySchema`](ArraySchema.md)<[`Schema`](../types/Schema.md)\>\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`Schema`](../types/Schema.md)\>)[]
 
 Definitions of this pack's formulas. See [Formula](../types/Formula.md).
 
-Note that button actions are also defind here. Buttons are simply formulas
+Note that button actions are also defined here. Buttons are simply formulas
 with `isAction: true`.
-
-Note also, this should always be an array of Formulas. The PackFormulas object structure is deprecated
-and will be removed shortly.
 
 #### Inherited from
 
@@ -129,7 +126,7 @@ and will be removed shortly.
 
 #### Defined in
 
-[types.ts:716](https://github.com/coda/packs-sdk/blob/main/types.ts#L716)
+[types.ts:713](https://github.com/coda/packs-sdk/blob/main/types.ts#L713)
 
 ___
 
@@ -139,7 +136,7 @@ ___
 
 #### Defined in
 
-[types.ts:734](https://github.com/coda/packs-sdk/blob/main/types.ts#L734)
+[types.ts:731](https://github.com/coda/packs-sdk/blob/main/types.ts#L731)
 
 ___
 
@@ -151,7 +148,7 @@ Whether this is a pack that will be used by Coda internally and not exposed dire
 
 #### Defined in
 
-[types.ts:750](https://github.com/coda/packs-sdk/blob/main/types.ts#L750)
+[types.ts:747](https://github.com/coda/packs-sdk/blob/main/types.ts#L747)
 
 ___
 
@@ -161,7 +158,7 @@ ___
 
 #### Defined in
 
-[types.ts:740](https://github.com/coda/packs-sdk/blob/main/types.ts#L740)
+[types.ts:737](https://github.com/coda/packs-sdk/blob/main/types.ts#L737)
 
 ___
 
@@ -171,7 +168,7 @@ ___
 
 #### Defined in
 
-[types.ts:744](https://github.com/coda/packs-sdk/blob/main/types.ts#L744)
+[types.ts:741](https://github.com/coda/packs-sdk/blob/main/types.ts#L741)
 
 ___
 
@@ -181,7 +178,7 @@ ___
 
 #### Defined in
 
-[types.ts:735](https://github.com/coda/packs-sdk/blob/main/types.ts#L735)
+[types.ts:732](https://github.com/coda/packs-sdk/blob/main/types.ts#L732)
 
 ___
 
@@ -203,7 +200,7 @@ contact Coda support for approval.
 
 #### Defined in
 
-[types.ts:699](https://github.com/coda/packs-sdk/blob/main/types.ts#L699)
+[types.ts:698](https://github.com/coda/packs-sdk/blob/main/types.ts#L698)
 
 ___
 
@@ -213,7 +210,7 @@ ___
 
 #### Defined in
 
-[types.ts:738](https://github.com/coda/packs-sdk/blob/main/types.ts#L738)
+[types.ts:735](https://github.com/coda/packs-sdk/blob/main/types.ts#L735)
 
 ___
 
@@ -223,7 +220,7 @@ ___
 
 #### Defined in
 
-[types.ts:745](https://github.com/coda/packs-sdk/blob/main/types.ts#L745)
+[types.ts:742](https://github.com/coda/packs-sdk/blob/main/types.ts#L742)
 
 ___
 
@@ -233,7 +230,7 @@ ___
 
 #### Defined in
 
-[types.ts:746](https://github.com/coda/packs-sdk/blob/main/types.ts#L746)
+[types.ts:743](https://github.com/coda/packs-sdk/blob/main/types.ts#L743)
 
 ___
 
@@ -243,7 +240,7 @@ ___
 
 #### Defined in
 
-[types.ts:736](https://github.com/coda/packs-sdk/blob/main/types.ts#L736)
+[types.ts:733](https://github.com/coda/packs-sdk/blob/main/types.ts#L733)
 
 ___
 
@@ -259,7 +256,7 @@ Definitions of this pack's sync tables. See {@link SyncTable}.
 
 #### Defined in
 
-[types.ts:724](https://github.com/coda/packs-sdk/blob/main/types.ts#L724)
+[types.ts:721](https://github.com/coda/packs-sdk/blob/main/types.ts#L721)
 
 ___
 
@@ -276,7 +273,7 @@ explicit connection is specified by the user.
 
 #### Defined in
 
-[types.ts:689](https://github.com/coda/packs-sdk/blob/main/types.ts#L689)
+[types.ts:688](https://github.com/coda/packs-sdk/blob/main/types.ts#L688)
 
 ___
 
@@ -293,4 +290,4 @@ When uploading a pack version, the semantic version must be greater than any pre
 
 #### Defined in
 
-[types.ts:680](https://github.com/coda/packs-sdk/blob/main/types.ts#L680)
+[types.ts:679](https://github.com/coda/packs-sdk/blob/main/types.ts#L679)

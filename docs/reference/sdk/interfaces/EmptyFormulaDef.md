@@ -204,7 +204,11 @@ ___
 
 #### Defined in
 
+<<<<<<< HEAD
 [api.ts:380](https://github.com/coda/packs-sdk/blob/main/api.ts#L380)
+=======
+[api.ts:374](https://github.com/coda/packs-sdk/blob/main/api.ts#L374)
+>>>>>>> de6ed9d2 (build after rebase)
 
 ___
 

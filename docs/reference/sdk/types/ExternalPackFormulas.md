@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Type alias: ExternalPackFormulas
 
+=======
+>>>>>>> de6ed9d2 (build after rebase)
 Ƭ **ExternalPackFormulas**: [`PackFormulaMetadata`](PackFormulaMetadata.md)[]
 
 #### Defined in

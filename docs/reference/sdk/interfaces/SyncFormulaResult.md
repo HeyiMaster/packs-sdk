@@ -16,11 +16,7 @@
 
 #### Defined in
 
-<<<<<<< HEAD
 [api.ts:453](https://github.com/coda/packs-sdk/blob/main/api.ts#L453)
-=======
-[api.ts:431](https://github.com/coda/packs-sdk/blob/main/api.ts#L431)
->>>>>>> de6ed9d2 (build after rebase)
 
 ___
 
@@ -30,8 +26,4 @@ ___
 
 #### Defined in
 
-<<<<<<< HEAD
 [api.ts:452](https://github.com/coda/packs-sdk/blob/main/api.ts#L452)
-=======
-[api.ts:430](https://github.com/coda/packs-sdk/blob/main/api.ts#L430)
->>>>>>> de6ed9d2 (build after rebase)

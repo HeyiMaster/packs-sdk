@@ -49,11 +49,7 @@ ___
 
 ### formulas
 
-<<<<<<< HEAD
 • `Optional` **formulas**: (`BooleanPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `NumericPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `StringPackFormula`<[`ParamDefs`](../types/ParamDefs.md)\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`ArraySchema`](ArraySchema.md)<[`Schema`](../types/Schema.md)\>\> \| `ObjectPackFormula`<[`ParamDefs`](../types/ParamDefs.md), [`Schema`](../types/Schema.md)\>)[]
-=======
-• `Optional` **formulas**: [`Formula`](../types/Formula.md)<[`ParamDefs`](../types/ParamDefs.md)\>[]
->>>>>>> de6ed9d2 (build after rebase)
 
 Definitions of this pack's formulas. See [Formula](../types/Formula.md).
 

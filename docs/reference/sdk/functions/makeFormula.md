@@ -75,8 +75,4 @@ makeFormula({
 
 #### Defined in
 
-<<<<<<< HEAD
 [api.ts:558](https://github.com/coda/packs-sdk/blob/main/api.ts#L558)
-=======
-[api.ts:525](https://github.com/coda/packs-sdk/blob/main/api.ts#L525)
->>>>>>> de6ed9d2 (build after rebase)

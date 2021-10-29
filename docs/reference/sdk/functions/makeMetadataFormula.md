@@ -16,8 +16,4 @@
 
 #### Defined in
 
-<<<<<<< HEAD
 [api.ts:748](https://github.com/coda/packs-sdk/blob/main/api.ts#L748)
-=======
-[api.ts:679](https://github.com/coda/packs-sdk/blob/main/api.ts#L679)
->>>>>>> de6ed9d2 (build after rebase)

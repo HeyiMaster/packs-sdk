@@ -9,8 +9,4 @@ values are provided in this context object.
 
 #### Defined in
 
-<<<<<<< HEAD
 [api.ts:734](https://github.com/coda/packs-sdk/blob/main/api.ts#L734)
-=======
-[api.ts:667](https://github.com/coda/packs-sdk/blob/main/api.ts#L667)
->>>>>>> de6ed9d2 (build after rebase)
